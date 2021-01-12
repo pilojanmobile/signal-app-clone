@@ -1,16 +1,21 @@
-# signalappclone
+# signalApp Clone
 
-A new Flutter project.
+This Signal app clone created by eductional purpose.
 
-## Getting Started
+Using Flutter (Dart) ,Enjoy
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Support to my channel: https://bit.ly/3mXBdLB
+✔️Support to my channel: https://bit.ly/3mXBdLB
+✔️Facebook:- https://www.facebook.com/Tech1stChannel
+✔️Twitter- https://twitter.com/Tech1stChannel
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#Flutter #Tutorial #widget #signal #UI #flutterui
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+LIKE & SHARE & ACTIVATE THE BELL
+Thanks For Watching :-)
+Support to my channel: https://bit.ly/3mXBdLB
+
+Buy me a coffee - You are free to donate me a coffee so I can keep up my work.
+https://www.buymeacoffee.com/pilojan
