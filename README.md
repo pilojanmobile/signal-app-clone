@@ -16,3 +16,6 @@ Support to my channel: https://bit.ly/3mXBdLB
 LIKE & SHARE & ACTIVATE THE BELL
 Thanks For Watching :-)
 Support to my channel: https://bit.ly/3mXBdLB
+
+Buy me a coffee - You are free to donate me a coffee so I can keep up my work.
+https://www.buymeacoffee.com/pilojan
