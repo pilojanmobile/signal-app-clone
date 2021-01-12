@@ -41,7 +41,7 @@ class _CodePageState extends State<CodePage> {
                   SizedBox(
                     height: 10,
                   ),
-                  Text("Confrim your PIN"),
+                  Text("Confirm your PIN"),
                   SizedBox(
                     height: 30,
                   ),
